@@ -1,7 +1,8 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://user-images.githubusercontent.com/92983183/160006525-7d03bde6-74bc-4b83-b022-7e74fda46f26.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 ## Olá, Eu sou o Fabricio! Seja bem vindo(a) ao meu perfil.
+
 
 
 » 🖥️ Desenvolvedor Python 
