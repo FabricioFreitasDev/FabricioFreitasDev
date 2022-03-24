@@ -21,8 +21,8 @@
   
   ## skills 
   <div style="display: inline_block"><br>
-  <img align="center" alt="verzi-Java" title="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"> 
   <img align="center" alt="verzi-Phyton" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <img align="center" alt="verzi-Java" title="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"> 
   <img align="center" alt="verzi-Git" title="Git" height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png">
   <img align="center" alt="verzi-Js" title="JavaScript" height="40" width="40" src="https://img.icons8.com/color/50/000000/javascript.png">
   <img align="center" alt="verzi-Html" title="HTML5" height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
