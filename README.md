@@ -53,7 +53,7 @@ fabriciofreitasdev@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%2
   
        
    <h3>
-  <img align="right" alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
+  <img align="right" alt="GIF code" src="https://user-images.githubusercontent.com/92983183/160007525-87ed509f-f335-4e08-a484-80735213d851.gif" width="300" height="220" />
 </h3>
  
 
