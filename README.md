@@ -7,7 +7,7 @@
 
 » 🖥️ Desenvolvedor Python 
 
-» Em constantes aprendizado
+» Em constante aprendizado
 
 » Curioso...
 
