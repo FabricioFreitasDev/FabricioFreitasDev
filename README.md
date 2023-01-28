@@ -7,12 +7,12 @@
 
 
 <div style="display: inline_block">
-  <img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=FabricioFreitasDev&count_private=true&show_icons=true&theme=merko"/> 
+  <img align="center" width="40.0%" src="https://github-readme-stats.vercel.app/api?username=FabricioFreitasDev&count_private=true&show_icons=true&theme=merko"/> 
   <img align="center" width="40.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioFreitasDev&layout=compact&theme=merko"/>
   </div>
 
 
-## 
+## Skills
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Verzi-Python" title=Python height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -30,7 +30,7 @@
   <img align="center" alt="Verzi-Git" title=Git height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
   
-  ## 
+  ## Redes Sociais
  
 </div>
   
