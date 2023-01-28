@@ -30,7 +30,7 @@
   <img align="center" alt="Verzi-Git" title=Git height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
   
-  ## Contatos
+  ## Contats
  
 </div>
   
