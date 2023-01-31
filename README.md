@@ -18,6 +18,7 @@
    <img align="center" alt="Verzi-Python" title=Python height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Verzi-Django" title=Django height="90" width="90"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"> 
   <img align="center" alt="Verzi-Bootstrap" title=Botstrap height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center" alt="Verzi-Tailwind" title=Tailwind height="50" width=" 60" src="https://skillicons.dev/icons?i=tailwind">
   <img align="center" alt="Verzi-Js" title=JavaScript height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Verzi-HTML" title=HTML height="50" width="60" src="https://skillicons.dev/icons?i=html">
   <img align="center" alt="Verzi-CSS" title=CSS height="50" width="60" src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css">
