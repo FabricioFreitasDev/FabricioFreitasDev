@@ -25,8 +25,7 @@
   <img align="center" alt="Verzi-Mysql" title=MySQL height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Verzi-Postgre" title=Postgress height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Verzi-heroku" title=Heroku height="50"  width="60" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
-  <img align="center" alt="Verzi-Vscode" title=VS-Code height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
-  <img align="center" alt="Verzi-Windows" title=Windows height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Verzi-Vscode" title=VS-Code height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Verzi-GitHub" title=GitHub height="50"  width="60"  src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
   <img align="center" alt="Verzi-Git" title=Git height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
