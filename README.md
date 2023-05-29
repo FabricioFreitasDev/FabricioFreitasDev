@@ -14,7 +14,7 @@
 
   <div style="display: inline_block">
   <img align="center" width="40.0%" src="https://github-readme-stats.vercel.app/api?username=FabricioFreitasDev&count_private=true&show_icons=true&theme=merko"/> 
-  <img align="center" width="40.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioFreitasDev&layout=compact&theme=merko"/>
+  <img align="center" width="30.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioFreitasDev&layout=compact&theme=merko"/>
 </div>
   
 ## Contacts
